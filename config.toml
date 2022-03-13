@@ -1,4 +1,4 @@
-baseURL = "https://ella-haydn.de/"
+baseURL = "https://ella-haydn.github.io"
 languageCode = "de-de"
 defaultContentLanguage   = "de"
 isMultilingual           = true
