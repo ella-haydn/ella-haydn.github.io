@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ella-haydn.github.io/projects/</loc>
+    <loc>https://ella-haydn.de/projects/</loc>
     <lastmod>2022-03-13T13:15:40+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ella-haydn.github.io/en/projects/"
+                href="https://ella-haydn.de/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ella-haydn.github.io/projects/"
+                href="https://ella-haydn.de/projects/"
                 />
   </url><url>
-    <loc>https://ella-haydn.github.io/blog/</loc>
+    <loc>https://ella-haydn.de/blog/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
   </url><url>
-    <loc>https://ella-haydn.github.io/series/introduction/</loc>
+    <loc>https://ella-haydn.de/series/introduction/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
   </url><url>
-    <loc>https://ella-haydn.github.io/blog/testpack/</loc>
+    <loc>https://ella-haydn.de/blog/testpack/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
   </url><url>
-    <loc>https://ella-haydn.github.io/blog/neue-seite/</loc>
+    <loc>https://ella-haydn.de/blog/neue-seite/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
   </url><url>
-    <loc>https://ella-haydn.github.io/series/</loc>
+    <loc>https://ella-haydn.de/series/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ella-haydn.github.io/en/series/"
+                href="https://ella-haydn.de/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ella-haydn.github.io/series/"
+                href="https://ella-haydn.de/series/"
                 />
   </url><url>
-    <loc>https://ella-haydn.github.io/tags/</loc>
+    <loc>https://ella-haydn.de/tags/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ella-haydn.github.io/en/tags/"
+                href="https://ella-haydn.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ella-haydn.github.io/tags/"
+                href="https://ella-haydn.de/tags/"
                 />
   </url><url>
-    <loc>https://ella-haydn.github.io/tags/test/</loc>
+    <loc>https://ella-haydn.de/tags/test/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
   </url><url>
-    <loc>https://ella-haydn.github.io/</loc>
+    <loc>https://ella-haydn.de/</loc>
     <lastmod>2022-03-13T13:28:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ella-haydn.github.io/en/"
+                href="https://ella-haydn.de/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ella-haydn.github.io/"
+                href="https://ella-haydn.de/"
                 />
   </url><url>
-    <loc>https://ella-haydn.github.io/projects/testprojekt/</loc>
+    <loc>https://ella-haydn.de/projects/testprojekt/</loc>
     <lastmod>2022-03-13T13:15:40+01:00</lastmod>
   </url><url>
-    <loc>https://ella-haydn.github.io/home/</loc>
+    <loc>https://ella-haydn.de/home/</loc>
     <lastmod>2022-03-13T11:57:24+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ella-haydn.github.io/en/home/"
+                href="https://ella-haydn.de/en/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ella-haydn.github.io/home/"
+                href="https://ella-haydn.de/home/"
                 />
   </url>
 </urlset>

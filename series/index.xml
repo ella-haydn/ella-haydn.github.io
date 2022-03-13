@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Vorstellung</title>
-    <link>https://ella-haydn.github.io/series/</link>
+    <link>https://ella-haydn.de/series/</link>
     <description>Recent content in Series on Vorstellung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Mar 2022 13:28:19 +0100</lastBuildDate><atom:link href="https://ella-haydn.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 13:28:19 +0100</lastBuildDate><atom:link href="https://ella-haydn.de/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>introduction</title>
-      <link>https://ella-haydn.github.io/series/introduction/</link>
+      <link>https://ella-haydn.de/series/introduction/</link>
       <pubDate>Sun, 13 Mar 2022 13:28:19 +0100</pubDate>
       
-      <guid>https://ella-haydn.github.io/series/introduction/</guid>
+      <guid>https://ella-haydn.de/series/introduction/</guid>
       <description></description>
     </item>
     

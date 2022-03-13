@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on Vorstellung</title>
-    <link>https://ella-haydn.github.io/tags/test/</link>
+    <link>https://ella-haydn.de/tags/test/</link>
     <description>Recent content in test on Vorstellung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Mar 2022 13:28:19 +0100</lastBuildDate><atom:link href="https://ella-haydn.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 13:28:19 +0100</lastBuildDate><atom:link href="https://ella-haydn.de/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neue pack</title>
-      <link>https://ella-haydn.github.io/blog/testpack/</link>
+      <link>https://ella-haydn.de/blog/testpack/</link>
       <pubDate>Sun, 13 Mar 2022 13:28:19 +0100</pubDate>
       
-      <guid>https://ella-haydn.github.io/blog/testpack/</guid>
+      <guid>https://ella-haydn.de/blog/testpack/</guid>
       <description>Ein Einleitungstext für meinen Testpack.</description>
     </item>
     
     <item>
       <title>Neue Seite</title>
-      <link>https://ella-haydn.github.io/blog/neue-seite/</link>
+      <link>https://ella-haydn.de/blog/neue-seite/</link>
       <pubDate>Sun, 13 Mar 2022 13:28:19 +0100</pubDate>
       
-      <guid>https://ella-haydn.github.io/blog/neue-seite/</guid>
+      <guid>https://ella-haydn.de/blog/neue-seite/</guid>
       <description>Juhuu, meine neue Seite ist online!</description>
     </item>
     

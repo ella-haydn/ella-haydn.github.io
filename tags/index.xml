@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vorstellung</title>
-    <link>https://ella-haydn.github.io/tags/</link>
+    <link>https://ella-haydn.de/tags/</link>
     <description>Recent content in Tags on Vorstellung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 13 Mar 2022 13:28:19 +0100</lastBuildDate><atom:link href="https://ella-haydn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 13:28:19 +0100</lastBuildDate><atom:link href="https://ella-haydn.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://ella-haydn.github.io/tags/test/</link>
+      <link>https://ella-haydn.de/tags/test/</link>
       <pubDate>Sun, 13 Mar 2022 13:28:19 +0100</pubDate>
       
-      <guid>https://ella-haydn.github.io/tags/test/</guid>
+      <guid>https://ella-haydn.de/tags/test/</guid>
       <description></description>
     </item>
     
