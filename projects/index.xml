@@ -5,6 +5,16 @@
     <link>https://ella-haydn.github.io/projects/</link>
     <description>Recent content in Projekte on Vorstellung</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="https://ella-haydn.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language>
+    <lastBuildDate>Sun, 13 Mar 2022 13:15:40 +0100</lastBuildDate><atom:link href="https://ella-haydn.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testprojekt</title>
+      <link>https://ella-haydn.github.io/projects/testprojekt/</link>
+      <pubDate>Sun, 13 Mar 2022 13:15:40 +0100</pubDate>
+      
+      <guid>https://ella-haydn.github.io/projects/testprojekt/</guid>
+      <description>Ein Beispiel für ein Projekt. Zum Beispiel Photografien, bei denen man beteiligt war.</description>
+    </item>
+    
   </channel>
 </rss>

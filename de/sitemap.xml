@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ella-haydn.github.io/projects/</loc>
+    <lastmod>2022-03-13T13:15:40+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +16,19 @@
                 />
   </url><url>
     <loc>https://ella-haydn.github.io/blog/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
+  </url><url>
+    <loc>https://ella-haydn.github.io/series/introduction/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
+  </url><url>
+    <loc>https://ella-haydn.github.io/blog/testpack/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
+  </url><url>
+    <loc>https://ella-haydn.github.io/blog/neue-seite/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
   </url><url>
     <loc>https://ella-haydn.github.io/series/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,6 +41,7 @@
                 />
   </url><url>
     <loc>https://ella-haydn.github.io/tags/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,7 +53,11 @@
                 href="https://ella-haydn.github.io/tags/"
                 />
   </url><url>
+    <loc>https://ella-haydn.github.io/tags/test/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
+  </url><url>
     <loc>https://ella-haydn.github.io/</loc>
+    <lastmod>2022-03-13T13:28:19+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -50,6 +67,22 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://ella-haydn.github.io/"
+                />
+  </url><url>
+    <loc>https://ella-haydn.github.io/projects/testprojekt/</loc>
+    <lastmod>2022-03-13T13:15:40+01:00</lastmod>
+  </url><url>
+    <loc>https://ella-haydn.github.io/home/</loc>
+    <lastmod>2022-03-13T11:57:24+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ella-haydn.github.io/en/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ella-haydn.github.io/home/"
                 />
   </url>
 </urlset>
