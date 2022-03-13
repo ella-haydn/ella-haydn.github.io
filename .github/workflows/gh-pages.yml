@@ -23,7 +23,6 @@ jobs:
       - name: Install npm packages
         run: |
           npm i -g postcss postcss-cli autoprefixer
-          npm install # reads info from package.json  
       - name: Build
         run: hugo --minify
 
